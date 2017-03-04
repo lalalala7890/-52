@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+</head>
+<body>
+	<style type="text/css">
+		#header,#footer{
+			width: 100%;
+			height: 40px;
+			background-color: black;
+		}
+		#footer{
+			text-align: center;
+		}
+		.main{
+			margin-left: 10px;
+			width: 70%;
+			padding: 20px,10px,10px,20px;
+			line-height: 1.1em;
+		}
+		h2,h3{
+			font-weight: lighter;
+		}
+		p{
+			font-weight: normal;
+		}
+		body{
+			background-color: #cdcdcd;
+		}
+		 table{
+            width:100%;
+            border-collapse: collapse;
+            font-size: 12px;
+        }
+		.main div{
+			margin: 20px;
+			border: 0;
+			padding: 0;
+			background-color: white;
+		}
+		#sideright{
+			padding: 20px;
+			position: absolute;
+			height: 500px;
+			width: 300px;
+			top: 60px;
+			right: 20px;
+			background-color: white;
+		}
+		 button{
+            width:100%;
+            height:32px;
+            font-size: 14px;
+            background: #3355d0;
+            color:#ffffff;
+            border:none;
+            border-radius: 6px;
+            font-weight: bold;
+          
+        }
+	</style>
+	<div id="header">
+	<img src="https://ss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/img/logo_top_ca79a146.png" title="baidu">
+	</div>
+	<div class="main">
+		<div>
+			<h1>文章一级标题</h1>
+			<h2>文章二级标题</h2>
+			<h3>文章作者&nbsp;文章发表时间</h3>
+			<p>&nbsp;&nbsp;“区域”是个普遍的概念。不同学科有不同的理解；地理学把“区域”作为地球表面的一个地理单元；经济学把“区域”理解为一个在经济上相对完整的经济单元;政治学把“区域”看作国家实施行政管理的行政单元；区域经济学家认为“区域就是对描写、分析、管理、规划或制定政策来说，被认为有用的一个地区统一体”<br>
+			<a href="http://ife.baidu.com">这里有一个链接到http://ife.baidu.com</a>一个区域是指一个连续的地段，其中心具有一定程度的共性，却又缺少明确的界限。就<em>区域</em>的本质来说：他是地球表面的一个范围，是地球表面各种空间范围的泛称或抽象。<br>
+			<img src="http://img.mp.itc.cn/upload/20170119/1a1b0a25c5574806837c4c0d3133fce2_th.jpg" title="鹦鹉兄弟"><br>
+			区域具有一定的体系结构形式。区域具有分级性或多级性、层次性。因而区域具有上下左右之间的关系（纵向的或横向的）。每个分区都是一个区域的组成部分。</p>
+		</div>
+		<div>
+			<h1>另一篇文章一级标题</h1>
+			<h2>文章二级标题</h2>
+			<h3>文章作者&nbsp;文章发表时间</h3>
+			<p>
+				&nbsp;&nbsp;“区域”是个普遍的概念。不同学科有不同的理解；地理学把“区域”作为地球表面的一个地理单元；经济学把“区域”理解为一个在经济上相对完整的经济单元;政治学把“区域”看作国家实施行政管理的行政单元；区域经济学家认为“区域就是对描写、分析、管理、规划或制定政策来说，被认为有用的一个地区统一体”<br>
+			<a href="http://ife.baidu.com">这里有一个链接到http://ife.baidu.com</a>一个区域是指一个连续的地段，其中心具有一定程度的共性，却又缺少明确的界限。就<em>区域</em>的本质来说：他是地球表面的一个范围，是地球表面各种空间范围的泛称或抽象。<br>
+			<img src="images/segway1.jpg">
+			<ul>
+				<li>列表项目一</li>
+				<li>列表项目二</li>
+				<li>列表项目三</li>
+				</ul>
+			</p>
+		</div>
+		<div>
+			<h1>图片</h1>
+		     <img src="http://img.mp.itc.cn/upload/20170119/1a1b0a25c5574806837c4c0d3133fce2_th.jpg" title="鹦鹉兄弟" width="80px" height="80px">
+			<img src="http://img.mp.itc.cn/upload/20170119/1a1b0a25c5574806837c4c0d3133fce2_th.jpg" title="鹦鹉兄弟" width="80px" height="80px">
+			<img src="http://img.mp.itc.cn/upload/20170119/1a1b0a25c5574806837c4c0d3133fce2_th.jpg" title="鹦鹉兄弟" width="80px" height="80px">
+			<img src="http://img.mp.itc.cn/upload/20170119/1a1b0a25c5574806837c4c0d3133fce2_th.jpg" title="鹦鹉兄弟" width="80px" height="80px">
+			<img src="http://img.mp.itc.cn/upload/20170119/1a1b0a25c5574806837c4c0d3133fce2_th.jpg" title="鹦鹉兄弟" width="80px" height="80px">
+			<img src="http://img.mp.itc.cn/upload/20170119/1a1b0a25c5574806837c4c0d3133fce2_th.jpg" title="鹦鹉兄弟" width="80px" height="80px">
+			<img src="http://img.mp.itc.cn/upload/20170119/1a1b0a25c5574806837c4c0d3133fce2_th.jpg" title="鹦鹉兄弟" width="80px" height="80px">
+			<img src="http://img.mp.itc.cn/upload/20170119/1a1b0a25c5574806837c4c0d3133fce2_th.jpg" title="鹦鹉兄弟" width="80px" height="80px">
+			<img src="http://img.mp.itc.cn/upload/20170119/1a1b0a25c5574806837c4c0d3133fce2_th.jpg" title="鹦鹉兄弟" width="80px" height="80px">
+			<img src="http://img.mp.itc.cn/upload/20170119/1a1b0a25c5574806837c4c0d3133fce2_th.jpg" title="鹦鹉兄弟" width="80px" height="80px">
+		</div>
+		<div>
+			<h1>最后一篇文章一级标题</h1>
+            <h2>文章二级标题</h2>
+  <ol>
+	<li>spring</li>
+	<li>winner</li>
+	<li>happy</li>
+</ol>
+<table border="1" class="pos">
+<tbody>
+<tr>
+	<td>表头</td>
+	<td>表头</td>
+	<td>表头</td>
+</tr>
+<tr>
+	<td></td>
+	<td></td>
+	<td>change</td>
+</tr>
+<tr>
+	<td></td>
+	<td></td>
+	<td>change </td>
+</tr>
+<tr>
+	<td></td>
+	<th colspan="2">1000</th>
+</tr></tbody>
+</table>
+		</div>
+	</div>
+	<div id="sideright">
+		<form>
+		<p>
+			请输入邮箱地址<input type="text" name="address" placeholder="这是一个文本输入框"><br>
+			<h3 style="text-align: center;">邮箱地址请按要求格式输入</h3><br>
+			请输入密码<input type="text" name="password"><br>
+			<p></p>
+			请重复输入密码<input type="text" name="password"><br>
+			<h3 style="text-align: center;">密码请为6-16位英文数字</h3><br>
+			性别<input type="radio" name="sex" value="男">男<input type="radio" name="sex" value="女">女<br>
+			<p></p>
+			城市<select name="city">
+				<option value="北京">北京</option>
+				<option value="上海">上海</option>
+				<option value="江苏">江苏</option>
+				<option value="四川">四川</option>
+			</select><br>
+			<p></p>
+			爱好<input type="checkbox" name="character" value="运动">运动
+			<input type="checkbox" name="character" value="艺术">艺术
+			<input type="checkbox" name="character" value="科学">科学<br>
+			<p></p>
+			个人描述<textarea name="ty" rows="" cols="">这是一个多行输入框，输入您的个人描述</textarea><br>
+			<p></p>
+			<button>确认提交</button>
+		</p>	
+		</form>
+	</div>
+	<div id="footer">
+		版权所有@
+	</div>
+</body>
+</html>
